@@ -1,8 +1,16 @@
 [package]
-name = "calculator"
+name = "stack"
 version = "0.1.0"
 authors = ["Paul <pmboxwell@gmail.com>"]
 edition = "2018"
+
+[lib]
+name = "mylib"
+path = "src/lib.rs"
+
+[[main]]
+name = "mymain"
+path = "src/main.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
