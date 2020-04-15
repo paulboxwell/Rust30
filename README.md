@@ -2,15 +2,22 @@
 
 
 1 - Hello World
+
         Enviroment setup (cargo run)
+        
 2 - Calculator
+
         Console input
         varable decloration
         Text Parse
+        
 3 - TTR Stack
+
         Tests (cargo test)
         Structures / Methords
+        
 4 - Documentation
+
         Doc Generation
         Test Run
 
